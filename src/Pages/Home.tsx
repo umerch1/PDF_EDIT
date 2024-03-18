@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import '../Styles/loginstyle.css';
+import React from "react";
 const Home = () => {
   return (
     <div className="homeMain">
